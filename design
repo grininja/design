@@ -1,1 +1,9 @@
+query {
+  getSchema(name: "LoanIQ", version: "1.0.0") { ... } // Service A
+}
 
+query {
+  getSchema(name: "LoanIQ", version: "2.0.0") { ... } // Service B
+}
+✅ Each service can fetch a different version!
+✅ Old services don’t break due to schema updates!
