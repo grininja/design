@@ -1,0 +1,26 @@
+Over the past half-year, I have demonstrated strong ownership, technical depth, and collaborative execution across multiple high-impact projects:
+
+IBM DataPower Migration Service
+Successfully delivered the DataPower migration service using Java Spring Boot. This involved deep collaboration with the Delta and DataPower teams to handle numerous edge cases. I contributed by rewriting and enhancing over 3,000 lines of code and scripts, ensuring end-to-end functionality. I also resolved a long-standing production issue in CBOA and ensured successful testing of all 7 supported deal types.
+
+Workflow Engine Revamp
+Co-developed a new workflow engine from scratch alongside Shaurya and Sudhakara, replacing the legacy jBPM system. This significantly reduced system complexity and improved maintainability.
+
+TDR-UI Migration
+Led the upgrade of the TDR-UI from Angular v5 to v19, involving more than 100 file-level changes. I addressed numerous compatibility issues and handled complex UI logic to ensure a smooth migration.
+
+Workflow JUnit Coverage
+Took initiative to drive unit test coverage, contributing ~80% JUnit test coverage for the workflow module in just one and a half sprints.
+
+Workflow Automation Setup
+Set up test automation for the workflow system and completed 2 out of 5 critical flows within 1.5 sprints, setting the stage for scalable QA processes.
+
+UI Slowness Investigation
+Conducted an in-depth performance analysis of the UI and identified core reasons for slowness, including potential fixes and refactor opportunities.
+
+Architectural Design Contributions
+After gaining a holistic understanding of the system, I proposed key components and architectural design changes to improve overall scalability and performance.
+
+Innovation Initiative – Deep Learning on Logs
+Proposed a novel idea to apply deep learning to application logs using graph databases to model relationships and detect anomalies or issues more intelligently.
+
