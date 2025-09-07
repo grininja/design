@@ -1,9 +1,1 @@
-Migrated PDN Proxy to PDN Data Services – Performed end-to-end testing of critical APIs (getChipsetDetails, getChipsetConfigurationDetails, getCapacitorInfo, getStackUpTemperature), ensuring smooth transition and reliability.
 
-Developed PDN Checker (Cloud Version) Component Parser – Implemented logic for input/output data transformation, strengthening functional understanding and enabling cloud-native execution.
-
-Led AWS FSx ONTAP Migration – Owned the end-to-end setup and migration from on-prem filer paths to FSx ONTAP, resolving multiprotocol, LDAP, NTFS, networking, and user mapping challenges in an area with no prior LOB experience.
-
-Enhanced Job Scheduler Service – Built functionality to automatically terminate older service versions and mark EC2s as deprecated, ensuring seamless scaling and reducing downtime risks.
-
-Collaboration & Knowledge Sharing – Partnered with peers (Sourav and Yeswanth) on requirements, worked closely with AWS support, and documented solutions thoroughly to build collective team expertise and reduce future dependencies.
